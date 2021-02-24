@@ -1,5 +1,5 @@
 {
-  "lessons": [
+  "posts": [
 {
       "id": 0,
       "image": "../../../../assets/lesson_1.png",
@@ -37,7 +37,7 @@
       "description": "Навчимося керувати яскравістю свічення світлодіодів в залежності від температури в приміщенні"
     }
   ],
-  "comments": [
+  "commentss": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
