@@ -37,9 +37,9 @@
       "description": "Навчимося керувати яскравістю свічення світлодіодів в залежності від температури в приміщенні"
     }
   ],
-  "commentss": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "login_data": [
+    { "id": 1, "email": "email@gmail.com", "password": "12qw*ERTY", "role": "admin" },
+    { "id": 2, "email": "user_email@gmail.com", "password": "12qw*ERTY", "role": "user" }
   ],
   "profile": {
     "name": "typicode"
