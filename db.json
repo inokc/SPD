@@ -57,7 +57,7 @@
       "text": "Для уроку нам знадобиться: Arduino uno контролер USB кабель (в більшості випадків він йде в комплекті з контролером)"
     }
   ],
-  "login_data": [
+  "comments": [
     { "id": 1, "email": "email@gmail.com", "password": "12qw*ERTY", "role": "admin" },
     { "id": 2, "email": "user_email@gmail.com", "password": "12qw*ERTY", "role": "user" }
   ],
